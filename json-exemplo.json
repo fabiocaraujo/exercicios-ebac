@@ -1,0 +1,107 @@
+[
+{
+    "nome": "Fábio ",
+    "sobrenome": "Araujo",
+    "idade": 40,
+    "endereco": {
+        "endereco": "Rua Vieira de almeida 150",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "cep": 11054058
+    },
+    "telefone": [
+        {
+            "tipo": "fixo",
+            "numero": "11-30223022"
+        },
+        {
+            "tipo": "celular",
+            "numero": "11-97374637"
+        }
+    ]
+},
+{
+    "nome": "Bruna",
+    "sobrenome": "Bergara",
+    "idade": 25,
+    "endereco": {
+        "endereco": "Av. Ipiranga 1150",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "cep": 110540434
+    },
+    "telefone": [
+        {
+            "tipo": "fixo",
+            "numero": "35 22255-1234"
+        },
+        {
+            "tipo": "celular",
+            "numero": "11-99939489"
+        }
+    ]
+},
+{
+    "nome": "Diego",
+    "sobrenome": "Gomes",
+    "idade": 32,
+    "endereco": {
+        "endereco": "Rua Andrades 2000",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "cep": 34354000
+    },
+    "telefone": [
+        {
+            "tipo": "fixo",
+            "numero": "21-5555-1234"
+        },
+        {
+            "tipo": "celular",
+            "numero": "21-98555-4567"
+        }
+    ]
+},
+{
+    "nome": "Letícia",
+    "sobrenome": "Santos",
+    "idade": 30,
+    "endereco": {
+        "endereco": "Rua Vieira de almeida 150",
+        "cidade": "Barueri",
+        "estado": "SP",
+        "cep": 11054000
+    },
+    "telefone": [
+        {
+            "tipo": "fixo",
+            "numero": "11-98989-8998"
+        },
+        {
+            "tipo": "celular",
+            "numero": "11-89899-8787"
+        }
+    ]
+},
+{
+    "nome": "Maria",
+    "sobrenome": "Veronica",
+    "idade": 35,
+    "endereco": {
+        "endereco": "Rua Espirito Santos 500",
+        "cidade": "Barueri",
+        "estado": "SP",
+        "cep": 11054222
+    },
+    "telefone": [
+        {
+            "tipo": "fixo",
+            "numero": "11-98989-2298"
+        },
+        {
+            "tipo": "celular",
+            "numero": "11-89899-1111"
+        }
+    ]
+}
+]
